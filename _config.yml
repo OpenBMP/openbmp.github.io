@@ -4,10 +4,12 @@ title: OpenBMP
 lang: en
 description: OpenBMP Documentation
 url: "https://www.openbmp.org"
-lang: en
 
 lsi: true
 safe: true
+
+html_logo: "images/logo-sidebar.png"
+html_favicon: "images/favicon.ico"
 
 readme_index:
   with_frontmatter: true
